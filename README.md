@@ -3,4 +3,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-Rakchanok-ff69b4?style=flat&logo=Gmail&logoColor=white&link=mailto:rakchanok.t@hotmail.co.th)](mailto:rakchanok.t@hotmail.co.th)
 
 ✨I'm a Data Science student from Thailand🇹🇭<br/>
-🗂This my academic projects github
+🗂My academic projects github

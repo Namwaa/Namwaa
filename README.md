@@ -13,11 +13,11 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/Namwaa/The-multi-product-newsvendor-model-with-limited-storage-for-Cloud-kitchen"><b>The-multi-product-newsvendor-model-with-limited-storage-for-Cloud-kitchen</b></a></td>
+      <td><a href="https://github.com/Namwaa/The-multi-product-newsvendor-model-with-limited-storage-for-Cloud-kitchen"><b>The multi-product Newsvendor model with limited storage</b></a></td>
       <td>Independent Study</td> 
     </tr>
     <tr>
-      <td><a href="https://github.com/Namwaa/Cloud-Kitchens-Location-Optimization-Project"><b>Cloud-Kitchens-Location-Optimization</b></a></td>
+      <td><a href="https://github.com/Namwaa/Cloud-Kitchens-Location-Optimization-Project"><b>Cloud Kitchens Location Optimization</b></a></td>
       <td>Business Analytics and Data Science</td> 
     </tr>
     <tr>

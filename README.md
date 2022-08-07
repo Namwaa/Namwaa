@@ -2,4 +2,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Rakchanok-blue?style=flat&logo=Linkedin&logoColor=white&link=https://bit.ly/3qC7QSl)](https://bit.ly/3qC7QSl)
 [![Gmail Badge](https://img.shields.io/badge/-Rakchanok-ff69b4?style=flat&logo=Gmail&logoColor=white&link=mailto:rakchanok.t@hotmail.co.th)](mailto:rakchanok.t@hotmail.co.th)
 
-✨I'm a Data Science student from Thailand🇹🇭
+✨I'm a Data Science student from Thailand🇹🇭<br/>
+🗂This my academic projects github

@@ -18,11 +18,43 @@
     </tr>
     <tr>
       <td><a href="https://github.com/Namwaa/Cloud-Kitchens-Location-Optimization-Project"><b>Cloud Kitchens Location Optimization</b></a></td>
-      <td>Business Analytics and Data Science</td> 
+      <td>Introduction to Business Analytics and Data Science</td> 
     </tr>
     <tr>
-      <td><a href="https://github.com/Namwaa/NLP_Project"><b>Job Description Skills Extraction </b></a></td>
-      <td>Text analytics and natural language processing</td> 
+      <td><a href="https://github.com/Namwaa/NLP_Project"><b>Job Description Skills Extraction</b></a></td>
+      <td>Text Analytics and Natural Language Processing</td> 
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Namwaa/Data-streaming-and-realtime-analytics-Project"><b>IoT system for Autonomous, Realtime Patient Monitoring and its Application</b></a></td>
+      <td>Data Streaming and Realtime Analytics</td> 
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Namwaa/Big-data-anaytics-project"><b>Fake Reviews Classification Using Locality-sensitive hashing</b></a></td>
+      <td>Big Data Anaytics</td> 
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Namwaa/Image_and_video_analytics_project"><b>Human Pose Recognition for Improving K-Pop Cover Dance</b></a></td>
+      <td>Image and Video Analytics</td> 
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Namwaa/Social-network-and-media-analysis-project"><b>Drug Criminal Network</b></a></td>
+      <td>Social Network and Media Analysis</td> 
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Namwaa/Applied-Machine-Learning-Project"><b>Client Subscribe Prediction</b></a></td>
+      <td>Applied-Machine-Learning</td> 
+    </tr>
+        <tr>
+      <td><a href="https://github.com/Namwaa/Marketing-analytics-and-intelligence-project"><b>Product Development: Flash Express</b></a></td>
+      <td>Marketing Analytics and Intelligence</td> 
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Namwaa/Data_Visualization_Project"><b>Recap Covid19 Situation in Thailand</b></a></td>
+      <td>Exploratory Data Analysis and Data Visualization</td> 
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Namwaa/Blockchain_Project_Mechanical_Keyboard_Platform"><b>Mechanical Keyboard Platform</b></a></td>
+      <td>Blockchain and Fintech</td> 
     </tr>
   </tbody>
 </table>

@@ -42,7 +42,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/Namwaa/Applied-Machine-Learning-Project"><b>Client Subscribe Prediction</b></a></td>
-      <td>Applied-Machine-Learning</td> 
+      <td>Applied Machine Learning</td> 
     </tr>
         <tr>
       <td><a href="https://github.com/Namwaa/Marketing-analytics-and-intelligence-project"><b>Product Development: Flash Express</b></a></td>
